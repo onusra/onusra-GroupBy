@@ -49,7 +49,9 @@ public class GroupByActivity {
      *   |5   |'Led Zeppelin'  |'IV'                 |'Going to California' |
      *   |6   |'The Eagles'    |'Hotel California'   |'Hotel California'    |
      */
-
+    public static void main(String [] args){
+        
+    }
     public Map<String, Integer> problem1() {
         /**
          * Problem 1: Use the GROUP BY clause with the COUNT() aggregate function to query the song table for the
